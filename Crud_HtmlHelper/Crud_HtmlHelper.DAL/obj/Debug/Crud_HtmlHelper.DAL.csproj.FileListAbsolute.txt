@@ -1,0 +1,13 @@
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\bin\Debug\Crud_HtmlHelper.DAL.dll.config
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\bin\Debug\Crud_HtmlHelper.DAL.dll
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\bin\Debug\Crud_HtmlHelper.DAL.pdb
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\bin\Debug\EntityFramework.dll
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\bin\Debug\EntityFramework.xml
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\obj\Debug\Crud_HtmlHelper.DAL.csprojAssemblyReference.cache
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\obj\Debug\Crud_HtmlHelper.DAL.csproj.CopyComplete
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\obj\Debug\Crud_HtmlHelper.DAL.dll
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\obj\Debug\Crud_HtmlHelper.DAL.pdb
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\bin\Debug\Crud_HtmlHelper.MODEL.dll
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.DAL\bin\Debug\Crud_HtmlHelper.MODEL.pdb

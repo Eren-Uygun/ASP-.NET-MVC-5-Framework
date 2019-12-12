@@ -1,0 +1,21 @@
+﻿
+@using Crud_HtmlHelper.UI.Areas.AdminArea.Models.Messages
+
+@if (ViewBag.ProcessCondition == 1)
+{
+    <div class="alert alert-success alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+        <h5><i class="icon fas fa-check"></i> Success!</h5>
+        @TransactionMessage.success
+    </div>
+
+}
+else if (ViewBag.ProcessCondition == 2)
+{
+    <div class="alert alert-danger alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+        <h5><i class="icon fas fa-ban"></i> Failed!</h5>
+        @TransactionMessage.fail
+    </div>
+}
+

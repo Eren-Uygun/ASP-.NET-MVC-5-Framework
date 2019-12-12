@@ -1,0 +1,4 @@
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.MODEL\bin\Debug\Crud_HtmlHelper.MODEL.dll
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.MODEL\bin\Debug\Crud_HtmlHelper.MODEL.pdb
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.MODEL\obj\Debug\Crud_HtmlHelper.MODEL.dll
+C:\Projects\Crud_HtmlHelper\Crud_HtmlHelper.MODEL\obj\Debug\Crud_HtmlHelper.MODEL.pdb

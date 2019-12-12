@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Areas/AdminArea/Views/Shared/_AdminLayoutPage.cshtml";
+}
+
+
+@model IEnumerable<Crud_HtmlHelper.MODEL.Entity.Category>
+
+
+<div class="card">
+    <div class="card-header">
+        <p class="card-title">Category List</p>
+    </div>
+    <div class="card-body">
+        <table class="table table-bordered table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Category Name</th>
+                    <th>Description</th>
+                    <th>Edit/Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(x => item.ID)</td>
+                        <td>@Html.DisplayFor(x => item.CategoryName)</td>
+                        <td>@Html.DisplayFor(x => item.Description)</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
