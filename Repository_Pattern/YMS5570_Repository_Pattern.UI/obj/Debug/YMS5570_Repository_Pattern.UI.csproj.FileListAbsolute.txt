@@ -1,0 +1,234 @@
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.UI.dll.config
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.UI.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.UI.pdb
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csc.exe
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csc.exe.config
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csc.rsp
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csi.exe
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csi.exe.config
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csi.rsp
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.AppContext.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Console.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\vbc.exe
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\vbc.exe.config
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\vbc.rsp
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Helpers.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Mvc.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Razor.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Razor.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Helpers.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Mvc.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.csprojAssemblyReference.cache
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.csproj.CopyComplete
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.pdb
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.BLL.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.DAL.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.BLL.pdb
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.BLL.dll.config
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.DAL.pdb
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.DAL.dll.config
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.UI.dll.config
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.UI.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.UI.pdb
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csc.exe
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csc.exe.config
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csc.rsp
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csi.exe
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csi.exe.config
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csi.rsp
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.AppContext.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Console.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\vbc.exe
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\vbc.exe.config
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\vbc.rsp
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Helpers.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Mvc.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Razor.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.BLL.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.DAL.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.BLL.pdb
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.BLL.dll.config
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.DAL.pdb
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.DAL.dll.config
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Razor.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Helpers.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Mvc.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.csprojAssemblyReference.cache
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.csproj.CopyComplete
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.pdb
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.UI.dll.config
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.UI.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.UI.pdb
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csc.exe
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csc.exe.config
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csc.rsp
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csi.exe
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csi.exe.config
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\csi.rsp
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.AppContext.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Console.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\vbc.exe
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\vbc.exe.config
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\vbc.rsp
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Helpers.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Mvc.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Razor.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.BLL.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.DAL.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.BLL.pdb
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.BLL.dll.config
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.DAL.pdb
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\YMS5570_Repository_Pattern.DAL.dll.config
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Razor.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Helpers.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\System.Web.Mvc.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.csprojAssemblyReference.cache
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.csproj.CopyComplete
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.UI\obj\Debug\YMS5570_Repository_Pattern.UI.pdb

@@ -1,0 +1,42 @@
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.BLL.dll.config
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.BLL.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.BLL.pdb
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.DAL.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.DAL.pdb
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.DAL.dll.config
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.csprojAssemblyReference.cache
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.csproj.CopyComplete
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.dll
+C:\Users\burak\Dropbox\YMS5570\ASP .NET MVC\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.pdb
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.BLL.dll.config
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.BLL.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.BLL.pdb
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.DAL.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.DAL.pdb
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.DAL.dll.config
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.csprojAssemblyReference.cache
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.csproj.CopyComplete
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.dll
+C:\Users\LornV\Downloads\YMS5570_Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.pdb
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.BLL.dll.config
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.BLL.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.BLL.pdb
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.DAL.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.DAL.pdb
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\YMS5570_Repository_Pattern.DAL.dll.config
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.csprojAssemblyReference.cache
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.csproj.CopyComplete
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.dll
+C:\Users\LornV\Downloads\Repository_Pattern\YMS5570_Repository_Pattern.BLL\obj\Debug\YMS5570_Repository_Pattern.BLL.pdb
